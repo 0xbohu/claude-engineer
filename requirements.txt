@@ -1,6 +1,10 @@
 anthropic
-colorama
-pygments
-tavily-python
 python-dotenv
+tavily-python
 Pillow
+anthropic
+rich
+prompt_toolkit
+pydub
+websockets
+SpeechRecognition
